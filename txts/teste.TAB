@@ -1,0 +1,23 @@
+
+ -- CODIGO DA EQUIPE: (EQ10) --
+-- LUCAS BRAGA CARNEIRO - lucas.carneiro@ucsal.edu.br - (71) 99350-6564 --
+-- JEAN ALVES SILVA - jeanalves.silva@ucsal.edu.br - (71) 99130-6053 --
+-- SAMIR DANTAS BARRETO - Samir.barreto@ucsal.edu.br - (71) 98650-0010 --
+-- GUSTAVO PEIXOTO DE OLIVEIRA DIAS - gustavo.dias@ucsal.edu.br - (71) 99652-1215 --
+
+
+id, lexeme, token, qnt_antes, qnt_dps, tipo, linhas
+0, PROGRAM, IDN01, 7, 7, VOID, [1]
+1, lu, IDN01, 2, 2, VOID, [1]
+2, _cas, IDN02, 4, 4, VOID, [1]
+3, function, IDN01, 8, 8, VOID, [3]
+4, somar, IDN01, 5, 5, VOID, [3, 4]
+5, int, IDN01, 3, 3, VOID, [4]
+6, 5, IDN04, 1, 1, VOID, [4, 4]
+7, If, IDN01, 2, 2, VOID, [6]
+8, somaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, IDN01, 146, 35, VOID, [6]
+9, Void, IDN01, 4, 4, VOID, [6]
+10, begin, IDN01, 5, 5, VOID, [11]
+11, end, IDN01, 3, 3, VOID, [12]
+12, "hello", IDN06, 7, 7, VOID, [13]
+13, "world", IDN06, 7, 7, VOID, [13]
